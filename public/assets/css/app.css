@@ -6,7 +6,7 @@ html {
     height: 100%;
     overflow: hidden;
     background-color: #0c3336;
-    background-image: url('./assets/images/little_aquarium.jpeg');
+    background-image: url('../images/little_aquarium.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
